@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_kernel_motorola_sdm710",
+    "target_path": "kernel/motorola/sdm710"
+  },
+  {
+    "repository": "android_hardware_motorola",
+    "target_path": "hardware/motorola"
+  }
+]
